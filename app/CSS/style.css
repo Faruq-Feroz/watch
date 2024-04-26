@@ -1,0 +1,16 @@
+:root{
+    color:#fcdb67
+}
+
+
+.mine{
+    color: var(#fcdb67);
+}
+.brandy{
+    color: #fcdb67;
+    font-size: 80px;
+    font-weight: 900;
+    position: relative;
+    bottom: 370px;
+}
+
